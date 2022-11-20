@@ -1,0 +1,13 @@
+D:\Project\RTA Activation IDM\RTA Activation IDM\bin\Debug\RTA Activation IDM.exe.config
+D:\Project\RTA Activation IDM\RTA Activation IDM\bin\Debug\RTA Activation IDM.exe
+D:\Project\RTA Activation IDM\RTA Activation IDM\bin\Debug\RTA Activation IDM.pdb
+D:\Project\RTA Activation IDM\RTA Activation IDM\obj\Debug\RTA Activation IDM.csproj.AssemblyReference.cache
+D:\Project\RTA Activation IDM\RTA Activation IDM\obj\Debug\RTA Activation IDM.csproj.SuggestedBindingRedirects.cache
+D:\Project\RTA Activation IDM\RTA Activation IDM\obj\Debug\RTA_Activation_IDM.Form1.resources
+D:\Project\RTA Activation IDM\RTA Activation IDM\obj\Debug\RTA_Activation_IDM.Properties.Resources.resources
+D:\Project\RTA Activation IDM\RTA Activation IDM\obj\Debug\RTA Activation IDM.csproj.GenerateResource.cache
+D:\Project\RTA Activation IDM\RTA Activation IDM\obj\Debug\RTA Activation IDM.csproj.CoreCompileInputs.cache
+D:\Project\RTA Activation IDM\RTA Activation IDM\obj\Debug\RTA Activation IDM.exe
+D:\Project\RTA Activation IDM\RTA Activation IDM\obj\Debug\RTA Activation IDM.pdb
+D:\Project\RTA Activation IDM\RTA Activation IDM\obj\Debug\RTA_Activation_IDM.Form2.resources
+D:\Project\RTA Activation IDM\RTA Activation IDM\obj\Debug\RTA_Activation_IDM.Form3.resources
