@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>Activation Internet Download Manager<br>Froked CLI By : DukunCabul
-
+<br>
   <img src="https://raw.githubusercontent.com/rizkisquadpants/IDMActivation/main/Assets/idm.png" alt="IDM" width="300">
   
 
